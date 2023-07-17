@@ -1,4 +1,4 @@
-# Telecom-Churn-Case-Study
+sion# Telecom-Churn-Case-Study
 
 ## Objective
 
@@ -23,10 +23,9 @@ This is how we have approached to the solution:
 4.	Filtering the data to keep only high revenue customers in the dataset
 5.	Using activity of the first two months, which is the good phase to identify churn.
 6.	Tagging churners by assigning a binary variable and removing the churn phase data to prepare the dataset for final model building
-7.	Building Logistic Regression model
-8.	Re-building after checking for multicollinearity 
-9.	Deploying on test dataframe
-10.	Evaluating model
-11.	Drawing conclusions from results
+7.	Building Decision Tree model
+8.	Deploying on test dataframe
+9.	Evaluating model
+10.	Drawing conclusions from results
 
 This case study is built by a group of three students of a master’s program.
